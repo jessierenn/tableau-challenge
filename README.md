@@ -1,4 +1,4 @@
-## Unit 1 | Assignment - Citi Bike Analytics
+## Scenario: Citi Bike Analytics
 
 ## Background
 
@@ -12,43 +12,43 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 ## Task
 
-**Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs to build a data dashboard, story, or report.  You may work with a timespan of your choosing. If you're really ambitious, you can merge multiple datasets from different periods. Try to provide answers to the following questions:**
+**Your task is to aggregate the data found in the Citi Bike Trip History Logs to build a data dashboard, story, or report.  You may work with a timespan of your choosing. If you're really ambitious, you can merge multiple datasets from different periods. Try to provide answers to the following questions:**
 
-* How many trips have been recorded total during the chosen period? OK
+* How many trips have been recorded total during the chosen period?
 
-* By what percentage has total ridership grown? Quarter breakdown
+* By what percentage has total ridership grown?
 
-* How has the proportion of short-term customers and annual subscribers changed? Quarter breakdown
+* How has the proportion of short-term customers and annual subscribers changed?
 
-* Today, what are the peak hours in which bikes are used during summer months? ok
+* Today, what are the peak hours in which bikes are used during summer months?
 
-* Today, what are the peak hours in which bikes are used during winter months? ok
+* Today, what are the peak hours in which bikes are used during winter months?
 
-* Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?) OK
+* Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
 
-* Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?) OK
+* Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?)
 
-* Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why?) OK
+* Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why?)
 
-* Today, what are the bottom 10 stations in the city for ending a journey (Based on data, why?) OK
+* Today, what are the bottom 10 stations in the city for ending a journey (Based on data, why?)
 
-* Today, what is the gender breakdown of active participants (Male v. Female)? need to rename column / calculate
+* Today, what is the gender breakdown of active participants (Male v. Female)?
 
-* How effective has gender outreach been in increasing female ridership over the course of the past three years? plot female ridership over time
+* How effective has gender outreach been in increasing female ridership over the course of the past three years?
 
-* How does the average trip duration change by age? plot age vs duration: calculate age from birth year
+* How does the average trip duration change by age? plot age vs duration:
 
-* What is the average distance in miles that a bike is ridden? manhattan distance! or duration? (no dur)
+* What is the average distance in miles that a bike is ridden?
 
-* Which Bikes (by ID) are most likely due for repair or inspection this year? plot trips by bike id
+* Which Bikes (by ID) are most likely due for repair or inspection this year?
 
-* How variable is the utilization by bike ID? calculate variance of above
+* How variable is the utilization by bike ID?
 
 **Additionally, city officials would like to see the following visualizations:**
 
-* A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top. Adapt from top / bottom charts. Zip code is built into tableau!
+* A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top.
 
-* A dynamic map that shows how each station's popularity changes over time (by month and year) -- with commentary pointing to any interesting events that may be behind these phenomena. Don't know yet.
+* A dynamic map that shows how each station's popularity changes over time (by month and year) -- with commentary pointing to any interesting events that may be behind these phenomena.
 
 **Lastly, as a chronic over-achiever, you must also:**
 
@@ -98,10 +98,4 @@ Your final product will be assessed on the following metrics:
 
 * The final "format" of your deliverable is up to you. It can be an embedded Tableau dashboard, a Tableau Story, a Tableau visualization + PDF -- you name it. The bottom line is: This is your story to tell. Use the medium you deem most effective. (But you should definitely be using Tableau in some way!)
 
-* Treat this as a serious endeavor! This is an opportunity to show future employers that you have what it takes to be a top-notch analyst.
-
-* Good luck!
-
-## Copyright
-
-Coding Boot Camp (C) 2018. All Rights Reserved.
+* This is an opportunity to show future employers that you have what it takes to be a top-notch analyst.
